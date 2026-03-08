@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>社会福祉法人 慈楽福祉会</title>	<meta name="keywords" content="広島,安芸区,西区,介護,訪問介護,デイサービス,居宅介護支援,ケアセンター">
+<meta name="description" content="広島市安芸区から西区を中心に、高齢者ケアサービスと保育事業を展開しています。">	<meta property="og:title" content="社会福祉法人 慈楽福祉会">
+<meta property="og:description" content="広島市安芸区から西区を中心に、高齢者ケアサービスと保育事業を展開しています。">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://jiraku.or.jp/assets/images/og.png">
+<meta property="og:url" content="https://jiraku.or.jp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://jiraku.or.jp/assets/images/og.png">	<!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-W944VVR');
+    </script>
+	<!-- End Google Tag Manager -->
+	<link rel="shortcut icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+	<link rel="stylesheet" href="/assets/css/app.css?20240323">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp.min.css">
+	<script src="/assets/js/main.js?20230224"></script>
+<meta name='robots' content='max-image-preview:large' />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel="https://api.w.org/" href="https://jiraku.or.jp/wp-json/" /></head>
+
+<body  class="home"><header class="header" id="js-header" data-scroll-header>
+      <div class="sitemap" id="js-sitemap">
+        <div class="sitemap__bg" id="js-sitemap-bg"></div>
+        <div class="sitemap__container" id="js-sitemap-container">
+          <div class="sitemap__content">
+            <div class="sitemap__wrap sitemap__wrap--info">
+              <div class="sitemap__body">
+                <div class="sitemap__item sitemap__item--tel">
+                  <div class="sitemap__label">TEL</div>
+                  <div class="sitemap__number">082<span class="sitemap__number--hyphen">-</span>893<span class="sitemap__number--hyphen">-</span>6606</div>
+                </div>
+                <div class="sitemap__item sitemap__item--fax">
+                  <div class="sitemap__label">FAX</div>
+                  <div class="sitemap__number">082<span class="sitemap__number--hyphen">-</span>893<span class="sitemap__number--hyphen">-</span>6608</div>
+                </div>
+                <div class="sitemap__item sitemap__item--address"><span class="sitemap__address">〒739-0321  広島県広島市安芸区中野3-9-5</span></div>
+              </div>
+            </div>
+            <div class="sitemap__inner" id="js-sitemap-inner">
+              <div class="sitemap__wrap sitemap__wrap--menu">
+                <ul class="sitemap__list sitemap__list--main">
+                  <li class="sitemap__item sitemap__item--top"><a class="sitemap__link js-button-s" href="/"><span class="sitemap__text js-button-label">トップページ</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a></li>
+                  <li class="sitemap__item"><a class="sitemap__link js-button-s" href="/news"><span class="sitemap__text js-button-label">お知らせ</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a></li>
+                  <li class="sitemap__item"><a class="sitemap__link js-button-s" href="/topics"><span class="sitemap__text js-button-label">トピックス</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a></li>
+                  <li class="sitemap__item"><a class="sitemap__link js-button-s" href="/service"><span class="sitemap__text js-button-label">サービス紹介</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a>
+                    <ul class="sitemap__list sitemap__list--2nd">
+                      <li class="sitemap__item"><a class="sitemap__link" href="/service/residence"><span class="sitemap__text">居宅サービス</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/service/facility"><span class="sitemap__text">施設居住系サービス</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/service/counter"><span class="sitemap__text">相談窓口</span></a></li>
+                    </ul>
+                  </li>
+                  <li class="sitemap__item"><a class="sitemap__link js-button-s" href="/office"><span class="sitemap__text js-button-label">事業所一覧</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a>
+                    <ul class="sitemap__list sitemap__list--2nd">
+                      <li class="sitemap__item"><a class="sitemap__link" href="/office/senogawa_home"><span class="sitemap__text">瀬野川ホーム事業所</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/office/akinakano"><span class="sitemap__text">安芸中野事業所事業所</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/office/kannon"><span class="sitemap__text">観音事業所</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/office/seno"><span class="sitemap__text">瀬野事業所</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/office/kaita"><span class="sitemap__text">海田事業所</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/office/kujira/"><span class="sitemap__text">くじらっこ保育園</span></a></li>
+                    </ul>
+                  </li>
+                  <li class="sitemap__item"><a class="sitemap__link js-button-s" href="/about"><span class="sitemap__text js-button-label">法人案内</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a>
+                    <ul class="sitemap__list sitemap__list--2nd">
+                      <li class="sitemap__item"><a class="sitemap__link" href="/about#greetings"><span class="sitemap__text">理事長ご挨拶</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/about#philosophy"><span class="sitemap__text">法人理念</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/about#profile"><span class="sitemap__text">法人概要</span></a></li>
+                    </ul>
+                  </li>
+                  <li class="sitemap__item"><a class="sitemap__link js-button-s" href="/recruit"><span class="sitemap__text js-button-label">採用情報</span>
+                          <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div>
+                      <div class="sitemap__border js-button-border"></div></a>
+                    <ul class="sitemap__list sitemap__list--2nd">
+                      <li class="sitemap__item"><a class="sitemap__link" href="/recruit#message"><span class="sitemap__text">メッセージ</span></a></li>
+                      <li class="sitemap__item"><a class="sitemap__link" href="/recruit#description"><span class="sitemap__text">募集要項</span></a></li>
+                    </ul>
+                  </li>
+                </ul>
+                <ul class="sitemap__list sitemap__list--sub">
+                  <li class="sitemap__item"><a class="sitemap__link" href="/disclosure"><span class="sitemap__text">情報公開</span></a></li>
+                  <li class="sitemap__item"><a class="sitemap__link" href="/contact"><span class="sitemap__text">お問い合わせ・ご相談</span></a></li>
+                  <li class="sitemap__item"><a class="sitemap__link" href="/download"><span class="sitemap__text">各種書類ダウンロード</span></a></li>
+                  <li class="sitemap__item"><a class="sitemap__link" href="/availability"><span class="sitemap__text">空き状況</span></a></li>
+                </ul>
+              </div>
+              <div class="sitemap__wrap sitemap__wrap--service" id="js-sitemap-service">
+                <ul class="sitemap__list sitemap__list--service">
+                  <li class="sitemap__item sitemap__item--residence"><a class="service-button service-button--residence service-button--sitemap js-service-button" href="/service/residence">
+                      <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+<g class="icon-line">
+<path class="icon-line--1" d="M20.86 38.99 40 22.73l19.14 16.26" />
+<path class="icon-line--2" d="M25.65 41.86v15.31h28.7V41.86" />
+</g>
+<g class="icon-base"><path d="M20.86 39.04 40 22.78l19.14 16.26" /><path d="M25.65 41.91v15.31h28.7V41.91" /><path d="M36.17 57.22V45.74h7.65v11.48" /></g>
+</svg>
+                      </div>
+                      <div class="service-button__tag">居宅サービス</div>
+                      <div class="service-button__label">わが家で<br>暮らし続けたい</div></a></li>
+                  <li class="sitemap__item sitemap__item--facility"><a class="service-button service-button--facility service-button--sitemap js-service-button" href="/service/facility">
+                      <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+<g class="icon-line">
+<path class="icon-line--1" d="M9.4 36.89 40 23.54l30.6 13.35" />
+<path class="icon-line--2" d="M14.78 39.98v17.9h51.07v-17.9" />
+</g>
+<g class="icon-base">
+<path d="M65.86 28.46v-5.63h-7.62" /><path d="M9.4 36.18 40 22.83l30.6 13.35" /><path d="M36.17 56.92V45.63h7.66v11.28" /><path d="M49.14 39.28h10.68v4.43H49.14z" /><path d="M20.19 39.28h10.68v4.43H20.19z" /><path d="M49.14 48.39h10.68v4.43H49.14z" /><path d="M30.86 52.81H20.19v-4.43h10.68v4.43z" /><path d="M14.78 39.27v17.9h51.07v-17.9" />
+</g>
+</svg>
+                      </div>
+                      <div class="service-button__tag">施設居住系サービス</div>
+                      <div class="service-button__label">施設に<br>入居したい</div></a></li>
+                  <li class="sitemap__item sitemap__item--counter"><a class="service-button service-button--counter service-button--sitemap js-service-button" href="/service/counter">
+                      <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+<g class="icon-line"><path class="icon-line--1" d="M18.12 44.84H15.4a4.04 4.04 0 0 1-4.12-3.95V25.94c.05-2.23 1.89-4 4.12-3.95h25.56a4.04 4.04 0 0 1 4.12 3.95v14.95a4.047 4.047 0 0 1-4.12 3.95H23.6" /><path class="icon-line--2" d="M45.08 29.86H64.6a4.04 4.04 0 0 1 4.12 3.95v14.96a4.047 4.047 0 0 1-4.12 3.95h-2.72v3.96a1.338 1.338 0 0 1-1.35 1.34c-.46 0-.89-.23-1.13-.62l-3-4.68H39.04" /></g>
+<g class="icon-base">
+<g class="icon-fill"><path d="M28 37.06a.9.9 0 0 1-.64-.26.952.952 0 0 1-.31-.63l-.09-.84c-.04-.51.05-1.03.27-1.49.33-.48.82-.82 1.38-.98.49-.16.92-.45 1.25-.85.28-.4.42-.89.4-1.38.03-.64-.19-1.26-.61-1.73-.43-.44-1.03-.68-1.65-.65-.55-.01-1.09.17-1.52.53-.42.35-.72.84-.83 1.38-.08.32-.28.59-.57.75-.29.16-.63.21-.95.12-.31-.09-.57-.3-.72-.58-.16-.29-.2-.63-.13-.95.15-.66.46-1.27.89-1.78.45-.53 1-.95 1.63-1.24.69-.32 1.44-.47 2.2-.46.86-.02 1.71.17 2.48.55.71.36 1.3.91 1.7 1.6.43.76.64 1.61.62 2.48.03.9-.27 1.78-.85 2.47-.59.67-1.35 1.17-2.2 1.46-.23.06-.43.19-.59.36-.12.2-.17.44-.16.67l-.06.58a.9.9 0 0 1-.3.63c-.17.15-.4.24-.64.24m0 4.57c-.45.01-.89-.18-1.2-.51-.67-.69-.67-1.78 0-2.46.63-.66 1.68-.69 2.34-.06l.06.06c.67.69.67 1.78 0 2.46-.31.32-.75.51-1.2.51"/>
+<path  d="M51.66 43.06a1.306 1.306 0 0 1-.01-2.61 1.306 1.306 0 0 1 .93 2.23c-.24.25-.57.39-.92.38" /><path d="M56.13 43.06a1.306 1.306 0 0 1-.01-2.61 1.306 1.306 0 0 1 .93 2.23c-.24.25-.58.39-.92.38" /></g>
+<path  d="M44.92 30.35h19.52a4.04 4.04 0 0 1 4.12 3.95v14.96a4.047 4.047 0 0 1-4.12 3.95h-2.72v3.96a1.338 1.338 0 0 1-1.35 1.34c-.46 0-.89-.23-1.13-.62l-3-4.68H38.88a4.04 4.04 0 0 1-4.12-3.95v-3.93" /><path  d="M19.3 50.62c-.13 0-.25-.02-.37-.06a1.35 1.35 0 0 1-.97-1.29v-3.96h-2.72a4.04 4.04 0 0 1-4.12-3.95V26.42c.05-2.23 1.89-4 4.12-3.95H40.8a4.04 4.04 0 0 1 4.12 3.95v14.95a4.047 4.047 0 0 1-4.12 3.95H23.44l-3 4.68c-.25.39-.68.62-1.14.62z" /></g>
+</svg>
+                      </div>
+                      <div class="service-button__tag">相談窓口</div>
+                      <div class="service-button__label">介護や高齢者の<br>相談をしたい</div></a></li>
+                  <li class="sitemap__item sitemap__item--recruit"><a class="service-button service-button--recruit service-button--sitemap js-service-button" href="/recruit">
+                      <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+
+<g class="icon-line"><path class="icon-line--1" d="M39.69 21.49a6.204 6.204 0 0 1 6.5 6.5 6.204 6.204 0 0 1-5.89 6.5 6.204 6.204 0 0 1-6.5-6.5 6.205 6.205 0 0 1 5.89-6.5" /><path class="icon-line--2" d="M25.03 58.52V46.29a5.775 5.775 0 0 1 5.68-5.87h18.57c3.19.05 5.73 2.68 5.68 5.87v12.23" /></g>
+<g class="icon-base">
+<g class="icon-nofill">
+<path d="M48.19 57.3c-.2 0-.4-.07-.56-.19l-2.47-1.85-2.47 1.85c-.33.25-.78.25-1.11 0-.33-.26-.47-.69-.35-1.09l.94-3-2.47-1.85a.994.994 0 0 1-.34-1.09c.12-.4.48-.67.9-.68h3.05l.94-3a.936.936 0 0 1 1.8 0l.94 3h3.06c.42 0 .78.28.9.68.13.4-.01.84-.35 1.09l-2.47 1.85.94 3c.13.4-.01.84-.34 1.09-.14.12-.34.18-.54.19" style="fill:none;stroke:#3b3938;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+</g>
+<path d="M46.19 27.99a6.204 6.204 0 0 1-5.89 6.5 6.204 6.204 0 0 1-6.5-6.5 6.204 6.204 0 0 1 5.89-6.5 6.204 6.204 0 0 1 6.5 6.5z" /><path d="M25.03 58.52V46.29a5.775 5.775 0 0 1 5.68-5.87h18.57c3.19.05 5.73 2.68 5.68 5.87v12.23" />
+</g></svg>
+                      </div>
+                      <div class="service-button__tag">採用情報</div>
+                      <div class="service-button__label">採用について<br>知りたい</div></a></li>
+                  <li class="sitemap__item sitemap__item--entry"><a class="sitemap__link js-button" href="/flow"><span class="sitemap__text js-button-label">ご利用の流れ・お申し込みはこちら</span>
+                          <div class="arrow js-button-wrap arrow--pink arrow--large">
+                            <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343"><g transform="translate(-552 -1677.657)"><line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/><path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g></svg>
+                          </div></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h1 class="header__logo"><a class="header__link" href="/"><img class="header__image" src="/assets/images/common/logo.svg" alt="社会福祉法人 慈楽福祉会"></a></h1>
+      <div class="header__group" id="js-header-menu">
+        <ul class="header__list header__list--sub">
+          <li class="header__item"><a class="header__link header__link--about" href="/about">法人案内</a></li>
+          <li class="header__item"><a class="header__link header__link--office" href="/office">事業所一覧</a></li>
+          <li class="header__item"><a class="header__link header__link--disclosure" href="/disclosure">情報公開</a></li>
+          <li class="header__item"><a class="header__link header__link--contact" href="/contact">お問い合わせ・ご相談</a></li>
+          <li class="header__item"><a class="header__link header__link--download" href="/download">各種書類ダウンロード</a></li>
+          <li class="header__item"><a class="header__link header__link--availability" href="/availability">空き状況</a></li>
+        </ul>
+        <ul class="header__list header__list--main">
+          <li class="header__item"><a class="header__link header__link--top" href="/">トップページ</a></li>
+          <li class="header__item"><a class="header__link header__link--news" href="/news">お知らせ</a></li>
+          <li class="header__item"><a class="header__link header__link--topics" href="/topics">トピックス</a></li>
+          <li class="header__item"><a class="header__link header__link--service" href="/service">サービス紹介</a>
+            <div class="header__container header__container--service js-pulldown-container"><a class="header__title" href="/service"><span class="header__text">サービス紹介</span><span class="header__text header__text--en">Service</span></a>
+              <div class="header__toggle js-toggle">
+                <div class="header__toggle-menu js-toggle-menu">
+                  <div class="header__toggle-bar js-toggle-bar"></div>
+                  <ul class="header__list header__list--2nd">
+                    <li class="header__item js-toggle-item"><a class="header__link" href="/service/residence">
+                        <div class="header__figure"><img class="header__image" src="/assets/images/common/icon_residence_s.svg" alt="居宅サービス"></div><span class="header__text">居宅サービス                  </span></a></li>
+                    <li class="header__item js-toggle-item"><a class="header__link" href="/service/facility">
+                        <div class="header__figure"><img class="header__image" src="/assets/images/common/icon_facility_s.svg" alt="施設住居系サービス"></div><span class="header__text">施設居住系サービス</span></a></li>
+                    <li class="header__item js-toggle-item"><a class="header__link" href="/service/counter">
+                        <div class="header__figure"><img class="header__image" src="/assets/images/common/icon_counter_s.svg" alt="相談窓口"></div><span class="header__text">相談窓口</span></a></li>
+                  </ul>
+                </div>
+                <div class="header__toggle-wrapper js-toggle-wrapper">
+                  <div class="header__toggle-content js-toggle-content">
+                    <ul class="header__list header__list--3rd">
+                      <li class="header__item"><a class="header__link" href="/service/residence/day_renge/">デイサービスセンターれんげ</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/residence/day_akinakano/">デイサービスセンター安芸中野</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/residence/houmon_akinakano/">あきなかの訪問介護事業所</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/residence/pia_kannon_residence/">通所リハビリテーションピア観音</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/residence/kaita_jiraku/">小規模多機能型居宅介護海田じらく房</a></li>
+                    </ul>
+                  </div>
+                  <div class="header__toggle-content js-toggle-content">
+                    <ul class="header__list header__list--3rd">
+                      <li class="header__item"><a class="header__link" href="/service/facility/yogo_senogawa/">養護老人ホーム瀬野川ホーム</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/facility/tokuyo_senogawa/">特別養護老人ホーム瀬野川ホーム</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/facility/care_akinakano/">ケアハウス安芸中野</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/facility/tokuyo_akinakano/">特別養護老人ホームあきなかの</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/facility/pia_kannon_facility/">介護老人保健施設ピア観音</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/facility/seno_jiraku/">グループホーム瀬野じらく房</a></li>
+                    </ul>
+                  </div>
+                  <div class="header__toggle-content js-toggle-content">
+                    <ul class="header__list header__list--3rd">
+                      <li class="header__item"><a class="header__link" href="/service/counter/shien_center/">広島市瀬野川・船越地域包括支援センター</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/counter/shien_senogawa/">瀬野川居宅介護支援事業所</a></li>
+                      <li class="header__item"><a class="header__link" href="/service/counter/shien_kannon/">居宅介護支援事業所ピア観音</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="header__item"><a class="header__link header__link--recruit" href="/recruit">採用情報</a></li>
+        </ul>
+      </div>
+      <button class="drawer" id="js-drawer">
+        <div class="drawer__label" id="js-close-label">
+          <div class="drawer__label--content">メニューを閉じる</div>
+        </div>
+        <div class="drawer__circle">
+          <div class="drawer__line drawer__line--1"></div>
+          <div class="drawer__line drawer__line--2"></div>
+        </div>
+      </button>
+      <div class="header__local" id="js-local-nav">
+        <div class="header__title" id="js-local-nav-button"><span class="header__text" id="js-local-nav-button-txt">施設のご案内</span>
+          <div class="header__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.25 8.97">
+<path class="icon-line" d="M16,1.25L9.31,7.46c-0.38,0.36-0.98,0.36-1.36,0l-6.7-6.21"/>
+</svg>
+          </div>
+        </div>
+      </div>
+    </header><main class="contents-wrapper">
+  <div class="contents-block">
+    <div class="splash" id="splash">
+      <div class="splash__symbol"><svg id="logo" class="logo-svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
+          width="100" height="100" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve">
+          <style type="text/css">
+            .st0 {
+              fill: url(#SVGID_1_);
+            }
+
+            .st1 {
+              fill: url(#SVGID_00000036940325166150208230000015004766839593342642_);
+            }
+
+            .st2 {
+              fill: url(#SVGID_00000156569021821388202950000008332492423742699915_);
+            }
+          </style>
+          <g class="logo-svg__g">
+            <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="67.8466" y1="28.4923" x2="67.8466"
+              y2="93.0596">
+              <stop offset="0" style="stop-color:#F9CB87" />
+              <stop offset="1" style="stop-color:#E7BB71" />
+            </linearGradient>
+            <path class="st0" d="M49.86,76c0.5,0.06,1.02,0.1,1.54,0.1c18.68,0,33.9-14.88,34.42-33.44c0.01,0.16,0-8.82,0-8.82
+    c0-2.84-2.3-5.15-5.15-5.15H75.7c-7.5,0-13.64,5.8-14.2,13.17c-0.04,0.36-0.06,0.72-0.06,1.09l0,20.02
+    C61.45,69.7,56.38,75.23,49.86,76z" />
+
+            <linearGradient id="SVGID_00000136399070986572189700000002209412091935606449_"
+              gradientUnits="userSpaceOnUse" x1="86.1403" y1="62.7515" x2="54.3308" y2="77.54">
+              <stop offset="0" style="stop-color:#D35D69" />
+              <stop offset="1" style="stop-color:#DC6A74" />
+            </linearGradient>
+            <path style="fill:url(#SVGID_00000136399070986572189700000002209412091935606449_);" d="M51.41,76.1
+    c-7.25,0-13.13-5.88-13.13-13.13c0,15.29,9.98,28.25,23.78,32.74c13.8-4.49,23.78-17.44,23.78-32.74c0,0,0-12.78,0-20.31
+    C85.31,61.21,70.09,76.1,51.41,76.1z" />
+
+            <linearGradient id="SVGID_00000103261291941410782930000011592438607095248278_"
+              gradientUnits="userSpaceOnUse" x1="22.4571" y1="61.8769" x2="52.6651" y2="95.1056">
+              <stop offset="0" style="stop-color:#F9CB87" />
+              <stop offset="1" style="stop-color:#E7BB71" />
+            </linearGradient>
+            <path style="fill:url(#SVGID_00000103261291941410782930000011592438607095248278_);" d="M38.28,62.97L38.28,62.97
+    c0-5.88-4.77-10.65-10.65-10.65c-5.88,0-10.65,4.77-10.65,10.65l0,0c0,19.01,15.41,34.42,34.42,34.42c3.72,0,7.29-0.6,10.65-1.69
+    C48.25,91.22,38.28,78.26,38.28,62.97z" />
+          </g>
+
+          <mask id="logo-svg__mask" maskUnits="objectBoundingBox">
+            <path class="logo-svg__line"
+              d="M28.06,63.32c0,12.63,10.24,22.87,22.87,22.87s22.87-10.24,22.87-22.87V28.65" />
+          </mask>
+
+        </svg>
+        <div class="splash__circle splash__circle--1 logo-circle-1"></div>
+        <div class="splash__circle splash__circle--2 logo-circle-2"></div>
+      </div>
+      <div class="splash__text splash__text--1"><img class="splash__image" src="/assets/images/splash_text_1.svg"
+          alt="社会福祉法人"></div>
+      <div class="splash__text splash__text--2"><img class="splash__image" src="/assets/images/splash_text_2.svg"
+          alt="慈楽福祉会"></div>
+    </div>
+    <section class="idx-kv" id="js-kv">
+      <div class="idx-kv__wrap">
+        <div class="idx-kv__prepend">
+          <div class="idx-kv__figure" id="js-kv-figure-1"><img class="idx-kv__image" id="js-kv-image-1"
+              src="/assets/images/top/kv_1.jpg" alt=""></div>
+          <div class="idx-kv__copy">
+            <div class="idx-kv__column idx-kv__column--1">
+              <div class="idx-kv__column-inner idx-kv__column-inner--1">
+                <div class="idx-kv__char">心</div>
+                <div class="idx-kv__char">が</div>
+                <div class="idx-kv__char">通</div>
+                <div class="idx-kv__char">じ</div>
+                <div class="idx-kv__char">合</div>
+                <div class="idx-kv__char">い</div>
+                <div class="idx-kv__char">
+                  <div class="idx-kv__char--yakuhan">、</div>
+                </div>
+              </div>
+              <div class="idx-kv__column-inner idx-kv__column-inner--2">
+                <div class="idx-kv__char">人</div>
+                <div class="idx-kv__char">と</div>
+                <div class="idx-kv__char">人</div>
+                <div class="idx-kv__char">と</div>
+                <div class="idx-kv__char">が</div>
+              </div>
+            </div>
+            <div class="idx-kv__column idx-kv__column--2">
+              <div class="idx-kv__column-inner">
+                <div class="idx-kv__char">手</div>
+                <div class="idx-kv__char">を</div>
+                <div class="idx-kv__char">取</div>
+                <div class="idx-kv__char">り</div>
+                <div class="idx-kv__char">合</div>
+                <div class="idx-kv__char">う</div>
+                <div class="idx-kv__char">未</div>
+                <div class="idx-kv__char">来</div>
+                <div class="idx-kv__char">へ</div>
+                <div class="idx-kv__char">
+                  <div class="idx-kv__char--yakuhan">。</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="idx-kv__body">
+          <div class="idx-kv__gap" id="js-kv-gap"></div>
+          <div class="idx-kv__figure" id="js-kv-figure-2"><img class="idx-kv__image" id="js-kv-image-2"
+              src="/assets/images/top/kv_2.jpg" alt=""></div>
+          <div class="idx-kv__nav" id="js-service-nav">
+            <ul class="idx-kv__list">
+              <li class="idx-kv__item js-kv-menu"><a class="service-button service-button--residence js-service-button"
+                  href="/service/residence">
+                  <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0"
+                      y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+                      <g class="icon-line">
+                        <path class="icon-line--1" d="M20.86 38.99 40 22.73l19.14 16.26" />
+                        <path class="icon-line--2" d="M25.65 41.86v15.31h28.7V41.86" />
+                      </g>
+                      <g class="icon-base">
+                        <path d="M20.86 39.04 40 22.78l19.14 16.26" />
+                        <path d="M25.65 41.91v15.31h28.7V41.91" />
+                        <path d="M36.17 57.22V45.74h7.65v11.48" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="service-button__tag">居宅サービス</div>
+                  <div class="service-button__label">わが家で<br>暮らし続けたい</div>
+                </a></li>
+              <li class="idx-kv__item js-kv-menu"><a class="service-button service-button--facility js-service-button"
+                  href="/service/facility">
+                  <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0"
+                      y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+                      <g class="icon-line">
+                        <path class="icon-line--1" d="M9.4 36.89 40 23.54l30.6 13.35" />
+                        <path class="icon-line--2" d="M14.78 39.98v17.9h51.07v-17.9" />
+                      </g>
+                      <g class="icon-base">
+                        <path d="M65.86 28.46v-5.63h-7.62" />
+                        <path d="M9.4 36.18 40 22.83l30.6 13.35" />
+                        <path d="M36.17 56.92V45.63h7.66v11.28" />
+                        <path d="M49.14 39.28h10.68v4.43H49.14z" />
+                        <path d="M20.19 39.28h10.68v4.43H20.19z" />
+                        <path d="M49.14 48.39h10.68v4.43H49.14z" />
+                        <path d="M30.86 52.81H20.19v-4.43h10.68v4.43z" />
+                        <path d="M14.78 39.27v17.9h51.07v-17.9" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="service-button__tag">施設居住系サービス</div>
+                  <div class="service-button__label">施設に<br>入居したい</div>
+                </a></li>
+              <li class="idx-kv__item js-kv-menu"><a class="service-button service-button--counter js-service-button"
+                  href="/service/counter">
+                  <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0"
+                      y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+                      <g class="icon-line">
+                        <path class="icon-line--1"
+                          d="M18.12 44.84H15.4a4.04 4.04 0 0 1-4.12-3.95V25.94c.05-2.23 1.89-4 4.12-3.95h25.56a4.04 4.04 0 0 1 4.12 3.95v14.95a4.047 4.047 0 0 1-4.12 3.95H23.6" />
+                        <path class="icon-line--2"
+                          d="M45.08 29.86H64.6a4.04 4.04 0 0 1 4.12 3.95v14.96a4.047 4.047 0 0 1-4.12 3.95h-2.72v3.96a1.338 1.338 0 0 1-1.35 1.34c-.46 0-.89-.23-1.13-.62l-3-4.68H39.04" />
+                      </g>
+                      <g class="icon-base">
+                        <g class="icon-fill">
+                          <path
+                            d="M28 37.06a.9.9 0 0 1-.64-.26.952.952 0 0 1-.31-.63l-.09-.84c-.04-.51.05-1.03.27-1.49.33-.48.82-.82 1.38-.98.49-.16.92-.45 1.25-.85.28-.4.42-.89.4-1.38.03-.64-.19-1.26-.61-1.73-.43-.44-1.03-.68-1.65-.65-.55-.01-1.09.17-1.52.53-.42.35-.72.84-.83 1.38-.08.32-.28.59-.57.75-.29.16-.63.21-.95.12-.31-.09-.57-.3-.72-.58-.16-.29-.2-.63-.13-.95.15-.66.46-1.27.89-1.78.45-.53 1-.95 1.63-1.24.69-.32 1.44-.47 2.2-.46.86-.02 1.71.17 2.48.55.71.36 1.3.91 1.7 1.6.43.76.64 1.61.62 2.48.03.9-.27 1.78-.85 2.47-.59.67-1.35 1.17-2.2 1.46-.23.06-.43.19-.59.36-.12.2-.17.44-.16.67l-.06.58a.9.9 0 0 1-.3.63c-.17.15-.4.24-.64.24m0 4.57c-.45.01-.89-.18-1.2-.51-.67-.69-.67-1.78 0-2.46.63-.66 1.68-.69 2.34-.06l.06.06c.67.69.67 1.78 0 2.46-.31.32-.75.51-1.2.51" />
+                          <path
+                            d="M51.66 43.06a1.306 1.306 0 0 1-.01-2.61 1.306 1.306 0 0 1 .93 2.23c-.24.25-.57.39-.92.38" />
+                          <path
+                            d="M56.13 43.06a1.306 1.306 0 0 1-.01-2.61 1.306 1.306 0 0 1 .93 2.23c-.24.25-.58.39-.92.38" />
+                        </g>
+                        <path
+                          d="M44.92 30.35h19.52a4.04 4.04 0 0 1 4.12 3.95v14.96a4.047 4.047 0 0 1-4.12 3.95h-2.72v3.96a1.338 1.338 0 0 1-1.35 1.34c-.46 0-.89-.23-1.13-.62l-3-4.68H38.88a4.04 4.04 0 0 1-4.12-3.95v-3.93" />
+                        <path
+                          d="M19.3 50.62c-.13 0-.25-.02-.37-.06a1.35 1.35 0 0 1-.97-1.29v-3.96h-2.72a4.04 4.04 0 0 1-4.12-3.95V26.42c.05-2.23 1.89-4 4.12-3.95H40.8a4.04 4.04 0 0 1 4.12 3.95v14.95a4.047 4.047 0 0 1-4.12 3.95H23.44l-3 4.68c-.25.39-.68.62-1.14.62z" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="service-button__tag">相談窓口</div>
+                  <div class="service-button__label">介護や高齢者の<br>相談をしたい</div>
+                </a></li>
+              <li class="idx-kv__item js-kv-menu"><a class="service-button service-button--recruit js-service-button"
+                  href="/recruit">
+                  <div class="service-button__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0"
+                      y="0" style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+
+                      <g class="icon-line">
+                        <path class="icon-line--1"
+                          d="M39.69 21.49a6.204 6.204 0 0 1 6.5 6.5 6.204 6.204 0 0 1-5.89 6.5 6.204 6.204 0 0 1-6.5-6.5 6.205 6.205 0 0 1 5.89-6.5" />
+                        <path class="icon-line--2"
+                          d="M25.03 58.52V46.29a5.775 5.775 0 0 1 5.68-5.87h18.57c3.19.05 5.73 2.68 5.68 5.87v12.23" />
+                      </g>
+                      <g class="icon-base">
+                        <g class="icon-nofill">
+                          <path
+                            d="M48.19 57.3c-.2 0-.4-.07-.56-.19l-2.47-1.85-2.47 1.85c-.33.25-.78.25-1.11 0-.33-.26-.47-.69-.35-1.09l.94-3-2.47-1.85a.994.994 0 0 1-.34-1.09c.12-.4.48-.67.9-.68h3.05l.94-3a.936.936 0 0 1 1.8 0l.94 3h3.06c.42 0 .78.28.9.68.13.4-.01.84-.35 1.09l-2.47 1.85.94 3c.13.4-.01.84-.34 1.09-.14.12-.34.18-.54.19"
+                            style="fill:none;stroke:#3b3938;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+                        </g>
+                        <path
+                          d="M46.19 27.99a6.204 6.204 0 0 1-5.89 6.5 6.204 6.204 0 0 1-6.5-6.5 6.204 6.204 0 0 1 5.89-6.5 6.204 6.204 0 0 1 6.5 6.5z" />
+                        <path
+                          d="M25.03 58.52V46.29a5.775 5.775 0 0 1 5.68-5.87h18.57c3.19.05 5.73 2.68 5.68 5.87v12.23" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="service-button__tag">採用情報</div>
+                  <div class="service-button__label">採用について<br>知りたい</div>
+                </a></li>
+              <li class="idx-kv__item idx-kv__item--entry js-kv-menu"><a class="idx-kv__link js-button-w"
+                  href="/flow"><span class="idx-kv__text js-button-label">ご利用の流れ・お申し込みはこちら</span>
+                  <div class="arrow js-button-wrap arrow--white arrow--medium">
+                    <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                      xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                      <g transform="translate(-552 -1677.657)">
+                        <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-width="2" />
+                        <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                      </g>
+                    </svg>
+                  </div>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="idx-kv__scroll">
+        <div class="idx-kv__scroll-inner">
+          <div class="idx-kv__label">Scroll</div>
+          <div class="idx-kv__line"></div>
+        </div>
+      </div>
+    </section>
+
+    
+    <section class="section idx-about js-inview">
+      <div class="idx-about__body">
+        <div class="section__head">
+          <div class="section__wrap">
+            <div class="section__subtitle">About</div>
+            <div class="section__title">広島市安芸区から西区を中心に、高齢者ケアサービスと保育事業を展開しています。</div>
+          </div>
+        </div>
+        <div class="idx-about__copy">社会福祉法人 慈楽福祉会は、昭和49年（1974年）に創設以来、地域の皆様に支えられ、共に邁進してまいりました。</div>
+        <div class="button js-button"><a class="button__link" href="/about">
+            <div class="button__wrap">
+              <label class="button__label js-button-label">法人案内を見る</label>
+              <div class="arrow js-button-wrap arrow--pink arrow--large">
+                <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                  xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                  <g transform="translate(-552 -1677.657)">
+                    <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000"
+                      stroke-linecap="round" stroke-width="2" />
+                    <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                      stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                  </g>
+                </svg>
+              </div>
+              <div class="button__border js-button-border"></div>
+            </div>
+          </a></div>
+      </div>
+      <div class="idx-about__images">
+        <div class="idx-about__block idx-about__block--img1"><img class="idx-about__image"
+            src="/assets/images/top/about_image_1.jpg"></div>
+        <div class="idx-about__block idx-about__block--img2"><img class="idx-about__image"
+            src="/assets/images/top/about_image_2.jpg"></div>
+        <div class="idx-about__block idx-about__block--img3"><img class="idx-about__image"
+            src="/assets/images/top/about_image_3.jpg"></div>
+        <div class="idx-about__block idx-about__block--img4"><img class="idx-about__image"
+            src="/assets/images/top/about_image_4.jpg"></div>
+      </div>
+    </section>
+    <section class="section office">
+      <div class="section__head office__head js-inview">
+        <div class="section__wrap">
+          <div class="section__subtitle">Office</div>
+          <h2 class="section__title">事業所一覧</h2>
+        </div>
+        <div class="service-explain">
+          <ul class="service-explain__list">
+            <li class="service-explain__item">
+              <div class="service-explain__link service-explain__link--residence">
+                <div class="service-explain__icon"><img class="service-explain__image"
+                    src="/assets/images/common/icon_residence_s.svg" alt="居宅サービス"></div>
+                <div class="service-explain__label">居宅<br class="service-explain__label--br">サービス</div>
+              </div>
+            </li>
+            <li class="service-explain__item">
+              <div class="service-explain__link service-explain__link--facility">
+                <div class="service-explain__icon"><img class="service-explain__image"
+                    src="/assets/images/common/icon_facility_s.svg" alt="施設住居系サービス"></div>
+                <div class="service-explain__label">施設住居系<br class="service-explain__label--br">サービス</div>
+              </div>
+            </li>
+            <li class="service-explain__item">
+              <div class="service-explain__link service-explain__link--counter">
+                <div class="service-explain__icon"><img class="service-explain__image"
+                    src="/assets/images/common/icon_counter_s.svg" alt="相談窓口"></div>
+                <div class="service-explain__label">相談窓口</div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="office__wrap office__wrap--office js-inview">
+        <ul class="office__list">
+          <li class="office__item office__item--wide"><a class="office__link js-button-s" href="/office/senogawa_home">
+              <div class="office__container">
+                <div class="office__figure"><img class="office__image" src="/assets/images/top/office_exterior_1_20240716.jpg"
+                    alt="瀬野川ホーム事業所外観" width="330" height="210" loading="lazy"></div>
+                <div class="office__body">
+                  <div class="office__group">
+                    <label class="office__label js-button-label"><span class="office__span">瀬野川ホーム事業所</span></label>
+                    <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                      <div class="arrow__circle js-button-circle"></div><svg id="arrow"
+                        class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828"
+                        height="12.343" viewBox="0 0 20.828 12.343">
+                        <g transform="translate(-552 -1677.657)">
+                          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-width="2" />
+                          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                        </g>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <ul class="office__list office__list--icon">
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_facility_s.svg"
+                    alt="施設住居系サービス"></div>
+              </li>
+            </ul>
+          </li>
+          <li class="office__item office__item--wide"><a class="office__link js-button-s" href="/office/akinakano">
+              <div class="office__container">
+                <div class="office__figure"><img class="office__image" src="/assets/images/top/office_exterior_2.jpg"
+                    alt="安芸中野事業所外観" width="330" height="210" loading="lazy"></div>
+                <div class="office__body">
+                  <div class="office__group">
+                    <label class="office__label js-button-label"><span class="office__span">安芸中野事業所</span></label>
+                    <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                      <div class="arrow__circle js-button-circle"></div><svg id="arrow"
+                        class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828"
+                        height="12.343" viewBox="0 0 20.828 12.343">
+                        <g transform="translate(-552 -1677.657)">
+                          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-width="2" />
+                          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                        </g>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <ul class="office__list office__list--icon">
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_residence_s.svg"
+                    alt="居宅サービス"></div>
+              </li>
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_facility_s.svg"
+                    alt="施設住居系サービス"></div>
+              </li>
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_counter_s.svg"
+                    alt="相談窓口"></div>
+              </li>
+            </ul>
+          </li>
+          <li class="office__item office__item--wide"><a class="office__link js-button-s" href="/office/kannon">
+              <div class="office__container">
+                <div class="office__figure"><img class="office__image" src="/assets/images/top/office_exterior_3.jpg"
+                    alt="観音事業所外観" width="330" height="210" loading="lazy"></div>
+                <div class="office__body">
+                  <div class="office__group">
+                    <label class="office__label js-button-label"><span class="office__span">観音事業所</span></label>
+                    <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                      <div class="arrow__circle js-button-circle"></div><svg id="arrow"
+                        class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828"
+                        height="12.343" viewBox="0 0 20.828 12.343">
+                        <g transform="translate(-552 -1677.657)">
+                          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-width="2" />
+                          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                        </g>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <ul class="office__list office__list--icon">
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_residence_s.svg"
+                    alt="居宅サービス"></div>
+              </li>
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_facility_s.svg"
+                    alt="施設住居系サービス"></div>
+              </li>
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_counter_s.svg"
+                    alt="相談窓口"></div>
+              </li>
+            </ul>
+          </li>
+          <li class="office__item office__item--half"><a class="office__link js-button-s" href="/office/seno">
+              <div class="office__container">
+                <div class="office__figure"><img class="office__image" src="/assets/images/top/office_exterior_4.jpg"
+                    alt="瀬野事業所外観" width="160" height="160" loading="lazy"></div>
+                <div class="office__body">
+                  <div class="office__group">
+                    <label class="office__label js-button-label"><span class="office__span">瀬野事業所</span></label>
+                    <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                      <div class="arrow__circle js-button-circle"></div><svg id="arrow"
+                        class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828"
+                        height="12.343" viewBox="0 0 20.828 12.343">
+                        <g transform="translate(-552 -1677.657)">
+                          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-width="2" />
+                          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                        </g>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <ul class="office__list office__list--icon">
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_facility_s.svg"
+                    alt="施設住居系サービス"></div>
+              </li>
+            </ul>
+          </li>
+          <li class="office__item office__item--half"><a class="office__link js-button-s" href="/office/kaita">
+              <div class="office__container">
+                <div class="office__figure"><img class="office__image" src="/assets/images/top/office_exterior_5.jpg"
+                    alt="海田事業所外観" width="160" height="160" loading="lazy"></div>
+                <div class="office__body">
+                  <div class="office__group">
+                    <label class="office__label js-button-label"><span class="office__span">海田事業所</span></label>
+                    <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                      <div class="arrow__circle js-button-circle"></div><svg id="arrow"
+                        class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828"
+                        height="12.343" viewBox="0 0 20.828 12.343">
+                        <g transform="translate(-552 -1677.657)">
+                          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-width="2" />
+                          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                        </g>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <ul class="office__list office__list--icon">
+              <li class="office__item">
+                <div class="office__icon"><img class="office__image" src="/assets/images/common/icon_residence_s.svg"
+                    alt="居宅サービス"></div>
+              </li>
+            </ul>
+          </li>
+          <li class="office__item office__item--half"><a class="office__link js-button-s" href="/office/kujira">
+              <div class="office__container">
+                <div class="office__figure"><img class="office__image" src="/assets/images/top/office_exterior_6.jpg"
+                    alt="くじらっこ保育園外観" width="160" height="160" loading="lazy"></div>
+                <div class="office__body">
+                  <div class="office__group">
+                    <label class="office__label js-button-label"><span class="office__span">くじらっこ保育園</span></label>
+                    <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                      <div class="arrow__circle js-button-circle"></div><svg id="arrow"
+                        class="js-button-arrow arrow-svg" xmlns="http://www.w3.org/2000/svg" width="20.828"
+                        height="12.343" viewBox="0 0 20.828 12.343">
+                        <g transform="translate(-552 -1677.657)">
+                          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-width="2" />
+                          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                            stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                        </g>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section news js-inview">
+      <div class="news__wrap">
+        <div class="section__head">
+          <div class="section__wrap">
+            <div class="section__subtitle">News</div>
+            <h2 class="section__title">お知らせ</h2>
+          </div>
+          <div class="section__wrap">
+            <div class="button js-button"><a class="button__link" href="/news">
+                <div class="button__wrap">
+                  <label class="button__label js-button-label">一覧を見る</label>
+                  <div class="arrow js-button-wrap arrow--pink arrow--large">
+                    <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                      xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                      <g transform="translate(-552 -1677.657)">
+                        <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-width="2" />
+                        <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="button__border js-button-border"></div>
+                </div>
+              </a></div>
+          </div>
+        </div>
+        <ul class="news__list">
+                        <li class="news__item"><a class="news__link js-button-s" href="https://jiraku.or.jp/news/20240913_829.html">
+                  <p class="news__date">
+                    2024年09月13日                  </p>
+                  <p class="news__text">
+                    令和6年10月17日(木)開催　家族介護教室のご案内                  </p>
+                  <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                    <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                      xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                      <g transform="translate(-552 -1677.657)">
+                        <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000"
+                          stroke-linecap="round" stroke-width="2" />
+                        <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="news__border js-button-border"></div>
+                </a></li>
+                          <li class="news__item"><a class="news__link js-button-s" href="https://jiraku.or.jp/news/20240327_1479.html">
+                  <p class="news__date">
+                    2024年03月27日                  </p>
+                  <p class="news__text">
+                    事業所移転のおしらせ                  </p>
+                  <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                    <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                      xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                      <g transform="translate(-552 -1677.657)">
+                        <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000"
+                          stroke-linecap="round" stroke-width="2" />
+                        <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="news__border js-button-border"></div>
+                </a></li>
+                          <li class="news__item"><a class="news__link js-button-s" href="https://jiraku.or.jp/news/20230703_631.html">
+                  <p class="news__date">
+                    2023年07月03日                  </p>
+                  <p class="news__text">
+                    採用情報を更新しました                  </p>
+                  <div class="arrow js-button-wrap arrow--beige arrow--medium">
+                    <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                      xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                      <g transform="translate(-552 -1677.657)">
+                        <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000"
+                          stroke-linecap="round" stroke-width="2" />
+                        <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="news__border js-button-border"></div>
+                </a></li>
+                              </ul>
+      </div>
+    </section>
+
+    <section class="section topics js-inview">
+      <div class="topics__inner">
+        <div class="section__head topics__head">
+          <div class="section__wrap">
+            <div class="section__subtitle">Topics</div>
+            <h2 class="section__title">トピックス</h2>
+          </div>
+          <div class="section__wrap">
+            <div class="button js-button"><a class="button__link" href="/topics">
+                <div class="button__wrap">
+                  <label class="button__label js-button-label">一覧を見る</label>
+                  <div class="arrow js-button-wrap arrow--pink arrow--large">
+                    <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                      xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                      <g transform="translate(-552 -1677.657)">
+                        <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-width="2" />
+                        <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                      </g>
+                    </svg>
+                  </div>
+                  <div class="button__border js-button-border"></div>
+                </div>
+              </a></div>
+          </div>
+        </div>
+
+                  <div class="topics__list topics__list--pickup">
+                          <div class="topics__item">
+                <a class="topics__link topics__link--img" href="https://jiraku.or.jp/topics/pickup/20260217_3468.html">
+                <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/02/IMG_1225-scaled-e1771185091272-700x394.jpeg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                  <div class="topics__group">
+                  <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">瀬野事業所</div>                    <div class="topics__date">
+                      2026年02月17日                    </div>
+                    <div class="topics__circle"></div>
+                  </div>
+                  <div class="topics__text">
+                    令和8年2月誕生日会🌺＆節分👹👹                  </div>
+                </a>
+              </div>
+                          <div class="topics__item">
+                <a class="topics__link topics__link--img" href="https://jiraku.or.jp/topics/pickup/20260126_3425.html">
+                <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/IMG_4080-640x394.jpeg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                  <div class="topics__group">
+                  <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">安芸中野事業所</div>                    <div class="topics__date">
+                      2026年01月26日                    </div>
+                    <div class="topics__circle"></div>
+                  </div>
+                  <div class="topics__text">
+                    デイサービス安芸中野の昼食                  </div>
+                </a>
+              </div>
+                          <div class="topics__item">
+                <a class="topics__link topics__link--img" href="https://jiraku.or.jp/topics/pickup/20260126_3414.html">
+                <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/IMG_0136-700x394.jpg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                  <div class="topics__group">
+                  <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">瀬野川ホーム事業所</div>                    <div class="topics__date">
+                      2026年01月26日                    </div>
+                    <div class="topics__circle"></div>
+                  </div>
+                  <div class="topics__text">
+                    ピア瀬野川神社                  </div>
+                </a>
+              </div>
+                      </div>
+        
+        <div class="topics__wrap">
+          <div class="topics__scroll">
+            <ul class="topics__list topics__list--nav">
+              <li class="topics__item"><a class="topics__link is-active" href="/topics/">すべて</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/pickup/">ピックアップ</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/senogawa/">瀬野川ホーム事業所</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/akinakano/">安芸中野事業所</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/kanon/">観音事業所</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/seno/">瀬野事業所</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/kaita/">海田事業所</a></li>
+              <li class="topics__item"><a class="topics__link" href="/topics/kujira/">くじらっこ保育園</a></li>
+            </ul>
+          </div>
+          <div class="topics__list topics__list--topics">
+                            <div class="topics__item"><a class="topics__link" href="https://jiraku.or.jp/topics/pickup/20260217_3468.html">
+                    <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/02/IMG_1225-scaled-e1771185091272-700x394.jpeg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                    <div class="topics__group">
+                      <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">瀬野事業所</div>                      <div class="topics__date">
+                        2026年02月17日                      </div>
+                      <div class="topics__circle"></div>
+                    </div>
+                    <div class="topics__text">
+                      令和8年2月誕生日会🌺＆節分👹👹                    </div>
+                  </a>
+                </div>
+                              <div class="topics__item"><a class="topics__link" href="https://jiraku.or.jp/topics/pickup/20260126_3425.html">
+                    <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/IMG_4080-640x394.jpeg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                    <div class="topics__group">
+                      <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">安芸中野事業所</div>                      <div class="topics__date">
+                        2026年01月26日                      </div>
+                      <div class="topics__circle"></div>
+                    </div>
+                    <div class="topics__text">
+                      デイサービス安芸中野の昼食                    </div>
+                  </a>
+                </div>
+                              <div class="topics__item"><a class="topics__link" href="https://jiraku.or.jp/topics/pickup/20260126_3414.html">
+                    <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/IMG_0136-700x394.jpg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                    <div class="topics__group">
+                      <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">瀬野川ホーム事業所</div>                      <div class="topics__date">
+                        2026年01月26日                      </div>
+                      <div class="topics__circle"></div>
+                    </div>
+                    <div class="topics__text">
+                      ピア瀬野川神社                    </div>
+                  </a>
+                </div>
+                              <div class="topics__item"><a class="topics__link" href="https://jiraku.or.jp/topics/pickup/20260126_3402.html">
+                    <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/初詣1-700x394.jpg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                    <div class="topics__group">
+                      <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">海田事業所</div>                      <div class="topics__date">
+                        2026年01月26日                      </div>
+                      <div class="topics__circle"></div>
+                    </div>
+                    <div class="topics__text">
+                      初詣に行ってきました⛩️                    </div>
+                  </a>
+                </div>
+                              <div class="topics__item"><a class="topics__link" href="https://jiraku.or.jp/topics/pickup/20260115_3395.html">
+                    <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/正月料理①-700x394.jpg" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                    <div class="topics__group">
+                      <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">安芸中野事業所</div>                      <div class="topics__date">
+                        2026年01月15日                      </div>
+                      <div class="topics__circle"></div>
+                    </div>
+                    <div class="topics__text">
+                      年末年始のお食事                    </div>
+                  </a>
+                </div>
+                              <div class="topics__item"><a class="topics__link" href="https://jiraku.or.jp/topics/pickup/20260105_3384.html">
+                    <div class="topics__figure">
+                                              <img class="topics__image" src="https://jiraku.or.jp/wp-content/uploads/2026/01/正月.png" alt="" width="330" height="186" loading="lazy">
+                                              </div>
+                    <div class="topics__group">
+                      <div class="topics__tag topics__tag--pickup">ピックアップ</div><div class="topics__tag">観音事業所</div>                      <div class="topics__date">
+                        2026年01月05日                      </div>
+                      <div class="topics__circle"></div>
+                    </div>
+                    <div class="topics__text">
+                      謹賀新年　明けましておめでとうございます                    </div>
+                  </a>
+                </div>
+                                    </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <a class="cta-side js-button-v" id="js-side-cta" href="/flow">
+  <div class="cta-side__inner">
+    <div class="cta-side__text js-button-label">ご利用の流れ・お申し込みはこちら</div>
+    <div class="arrow js-button-wrap arrow--white arrow--medium">
+      <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+        xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+        <g transform="translate(-552 -1677.657)">
+          <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000"
+            stroke-linecap="round" stroke-width="2" />
+          <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none" stroke="#000"
+            stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+        </g>
+      </svg>
+    </div>
+  </div>
+</a></main>
+<section class="cta-section js-inview">
+  <div class="cta-section__wrap">
+    <div class="cta-section__head">
+      <div class="cta-section__title">お問い合わせ</div>
+      <div class="cta-section__subtitle">Contact</div>
+    </div>
+    <div class="cta-section__group cta-section__group--contact">
+      <div class="cta-section__body">
+        <div class="cta-section__copy">介護のこと。施設のこと。<br>お気軽にご相談ください。</div>
+        <div class="cta-section__tel">
+          <div class="cta-section__icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0"
+              style="enable-background:new 0 0 80 80" version="1.1" viewBox="0 0 80 80">
+              <g class="icon-fill">
+                <path
+                  d="M27.68 22.15c-2.69 1.74-3.22 7.17-2.2 11.6 1.05 4.41 2.84 8.62 5.31 12.43 2.51 3.78 5.63 7.13 9.22 9.9 3.64 2.73 8.83 4.46 11.52 2.73 1.38-1.01 2.56-2.27 3.47-3.71l-1.44-2.22-3.97-6.11c-.3-.45-2.15-.04-3.09.49-.98.71-1.81 1.61-2.43 2.64-.87.5-1.6 0-3.12-.7-1.87-.86-3.97-3.52-5.65-5.94-1.53-2.52-3.11-5.52-3.14-7.56-.02-1.67-.18-2.54.63-3.12 1.2-.15 2.36-.53 3.41-1.14.87-.64 2-2.15 1.71-2.61l-3.97-6.1-1.44-2.23c-1.7.24-3.33.8-4.82 1.65z" />
+              </g>
+            </svg>
+          </div>
+          <div class="cta-section__label"><span>082</span><span
+              class="cta-section__tel--hyphen">-</span><span>893</span><span
+              class="cta-section__tel--hyphen">-</span><span>6606</span></div>
+        </div><a class="cta-section__button js-service-button js-button" href="/contact">
+          <div class="cta-section__icon cta-section__icon--mail"><svg xmlns="http://www.w3.org/2000/svg"
+              xml:space="preserve" x="0" y="0" style="enable-background:new 0 0 80 80" version="1.1"
+              viewBox="0 0 80 80">
+              <g class="icon-line">
+                <path class="icon-line--1"
+                  d="M25.43 53.23c-2.76 0-5-2.24-5-5V31.77c0-2.76 2.24-5 5-5h29.14c2.76 0 5 2.24 5 5v16.46c0 2.76-2.24 5-5 5" />
+                <path class="icon-line--2"
+                  d="M54.57 26.77c2.76 0 5 2.24 5 5v16.46c0 2.76-2.24 5-5 5H25.43c-2.76 0-5-2.24-5-5V31.77c0-2.76 2.24-5 5-5" />
+              </g>
+              <g class="icon-base">
+                <path d="M54.46,53.71H25.32c-2.76,0-5-2.24-5-5V32.25c0-2.76,2.24-5,5-5h29.14c2.76,0,5,2.24,5,5v16.46
+  C59.46,51.47,57.22,53.71,54.46,53.71z" />
+                <path class="icon-nofill" d="M24.95,35.1l14.44,8.4c0.31,0.18,0.7,0.18,1.01,0l14.44-8.4" />
+
+              </g>
+            </svg>
+
+          </div>
+          <div class="cta-section__label">Webでのお問い合せ</div>
+        </a>
+      </div>
+    </div>
+    <div class="cta-section__group cta-section__group--recruit"><a class="cta-section__link js-button" href="/recruit">
+        <div class="cta-section__figure cta-section__figure--bg1">
+          <picture>
+            <source srcset="/assets/images/common/recruit_bg1_sp.png" media="(max-width: 768px)"><img
+              class="cta-section__image" src="/assets/images/common/recruit_bg1_pc.png" alt="">
+          </picture>
+        </div>
+        <div class="cta-section__figure cta-section__figure--bg2">
+          <picture>
+            <source srcset="/assets/images/common/recruit_bg2_sp.png" media="(max-width: 768px)"><img
+              class="cta-section__image" src="/assets/images/common/recruit_bg2_pc.png" alt="">
+          </picture>
+        </div>
+        <div class="cta-section__body">
+          <div class="cta-section__subtitle">Recruit</div>
+          <div class="cta-section__title">採用情報</div>
+          <div class="cta-section__text">地域やご利用者に喜んでもらえる<br>サービスを一緒に考えてみませんか？</div>
+          <div class="button__wrap">
+            <label class="button__label js-button-label">くわしく見る</label>
+            <div class="arrow js-button-wrap arrow--pink arrow--large">
+              <div class="arrow__circle js-button-circle"></div><svg id="arrow" class="js-button-arrow arrow-svg"
+                xmlns="http://www.w3.org/2000/svg" width="20.828" height="12.343" viewBox="0 0 20.828 12.343">
+                <g transform="translate(-552 -1677.657)">
+                  <line class="arrow-svg__line" x2="17" transform="translate(553 1683.829)" fill="none" stroke="#000"
+                    stroke-linecap="round" stroke-width="2" />
+                  <path class="arrow-svg__path" d="M14,.829l5,5-5,5" transform="translate(553 1678)" fill="none"
+                    stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                </g>
+              </svg>
+            </div>
+            <div class="button__border js-button-border"></div>
+          </div>
+        </div>
+      </a></div>
+  </div>
+</section><footer class="footer js-inview">
+    <div class="footer__wrap footer__wrap--summary">
+      <h1 class="footer__logo"><img class="header__image" src="/assets/images/common/logo.svg" alt="社会福祉法人 慈楽福祉会"></h1>
+      <ul class="footer__list">
+        <li class="footer__item footer__item--address">
+          <p class="footer__text">〒739-0321 <br class="footer__br">広島県広島市安芸区中野3-9-5</p>
+        </li>
+        <li class="footer__item footer__item--tel">
+          <label class="footer__label">電話番号</label>
+          <p class="footer__text">082-893-6606</p>
+        </li>
+        <li class="footer__item footer__item--fax">
+          <label class="footer__label">FAX番号</label>
+          <p class="footer__text">082-893-6608</p>
+        </li>
+      </ul>
+    </div>
+    <div class="footer__wrap footer__wrap--menu">
+      <div class="footer__column footer__column--first">
+        <div class="footer__label"><a class="footer__link footer__link--residence" href="/">トップページ</a></div>
+        <div class="footer__label"><a class="footer__link footer__link--news" href="/news">お知らせ</a></div>
+        <div class="footer__label"><a class="footer__link footer__link--topics" href="/topics">トピックス</a></div>
+      </div>
+      <div class="footer__column">
+        <div class="footer__label footer__label--wide"><a class="footer__link footer__link--residence"
+            href="/service">サービス紹介</a></div>
+        <ul class="footer__list footer__list--1">
+          <li class="footer__item"><a class="footer__link footer__link--senogawa" href="/service/residence">居宅サービス</a>
+          </li>
+          <li class="footer__item"><a class="footer__link footer__link--akinakano"
+              href="/service/facility">施設居住系サービス</a></li>
+          <li class="footer__item"><a class="footer__link footer__link--kannon" href="/service/counter">相談窓口</a></li>
+        </ul>
+      </div>
+      <div class="footer__column footer__column--wide">
+        <div class="footer__label"><a class="footer__link footer__link--office" href="/office">事業所一覧</a></div>
+        <ul class="footer__list footer__list--1">
+          <li class="footer__item"><a class="footer__link footer__link--senogawa"
+              href="/office/senogawa_home/">瀬野川ホーム事業所</a></li>
+          <li class="footer__item"><a class="footer__link footer__link--akinakano" href="/office/akinakano/">安芸中野事業所</a>
+          </li>
+          <li class="footer__item"><a class="footer__link footer__link--akinakano" href="/office/kannon/">観音事業所</a></li>
+        </ul>
+        <ul class="footer__list footer__list--2">
+          <li class="footer__item"><a class="footer__link footer__link--seno" href="/office/seno/">瀬野事業所</a></li>
+          <li class="footer__item"><a class="footer__link footer__link--kaita" href="/office/kaita/">海田事業所</a></li>
+          <li class="footer__item"><a class="footer__link footer__link--kujira" href="/office/kujira/">くじらっこ保育園</a></li>
+        </ul>
+      </div>
+      <div class="footer__column">
+        <div class="footer__label"><a class="footer__link footer__link--about" href="/about">法人案内</a></div>
+        <ul class="footer__list">
+          <li class="footer__item"><a class="footer__link footer__link--greeting" href="/about/#greetings">理事長ご挨拶</a>
+          </li>
+          <li class="footer__item"><a class="footer__link footer__link--philosophy" href="/about/#philosophy">法人理念</a>
+          </li>
+          <li class="footer__item"><a class="footer__link footer__link--summary" href="/about/#profile">法人概要</a></li>
+        </ul>
+      </div>
+      <div class="footer__column">
+        <div class="footer__label"><a class="footer__link footer__link--recruit" href="/recruit">採用情報</a></div>
+        <ul class="footer__list">
+          <li class="footer__item"><a class="footer__link footer__link--message" href="/recruit/#message">メッセージ</a></li>
+          <li class="footer__item"><a class="footer__link footer__link--entry" href="/recruit/#description">募集要項</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer__column">
+        <div class="footer__label"><a class="footer__link footer__link--facility" href="/disclosure">情報公開</a></div>
+        <div class="footer__label"><a class="footer__link footer__link--contact" href="/contact">お問い合わせ・ご相談</a></div>
+        <div class="footer__label"><a class="footer__link footer__link--download" href="/download">各種書類ダウンロード</a></div>
+        <div class="footer__label"><a class="footer__link footer__link--availability" href="/availability">空き状況</a></div>
+      </div>
+    </div>
+    <div class="footer__wrap footer__wrap--copyright">
+      <p class="footer__text">Copyright© 社会福祉法人 慈楽福祉会 All Rights Reserved.</p>
+      <ul class="footer__list">
+        <li class="footer__item"><a class="footer__link" href="/privacy">個人情報保護方針</a></li>
+        <li class="footer__item"><a class="footer__link" href="/sitepolicy">サイトポリシー</a></li>
+      </ul>
+    </div>
+  </footer><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/jiraku/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+</body>
+</html>
