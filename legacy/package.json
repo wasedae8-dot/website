@@ -1,0 +1,12 @@
+{
+  "name": "waseda-website-demo",
+  "version": "1.0.0",
+  "description": "Local preview environment for Waseda e-Life website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server ./ -p 3000 -c-1 -o",
+    "start": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}

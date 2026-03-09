@@ -1,0 +1,14 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Install dependencies
+COPY package.json package-lock.json* ./
+# Use npm install if package-lock is not present, otherwise npm ci
+RUN if [ -f package-lock.json ]; then npm ci; else npm install; fi
+
+# Copy source
+COPY . .
+
+# Start Next.js in development mode
+CMD ["npm", "run", "dev"]
