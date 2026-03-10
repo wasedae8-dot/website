@@ -1,35 +1,51 @@
-version: '3.8'
+version: "3.8"
 
 services:
-  app:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    ports:
-      - "3000:3000"
-    volumes:
-      - .:/app
-      - /app/node_modules    # ← 【重要】コンテナ内の node_modules をホストと同期させない
-      - /app/.next          # ← ついでにビルド成果物もコンテナ内に閉じ込める
-    env_file:
-      - .env
-    environment:
-      - NODE_ENV=development
-      - WATCHPACK_POLLING=true # Windowsでのホットリロードを確実にするための設定
-    depends_on:
-      - db
-
   db:
-    image: postgres:15-alpine
-    restart: always
+    image: postgres:15
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=dev_db
     ports:
       - "5432:5432"
-    environment:
-      POSTGRES_USER: user
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: mydatabase
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - ./backend:/app
+    environment:
+      - DATABASE_URL=postgresql://postgres:password@db:5432/dev_db
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - WATCHPACK_POLLING=true # Use polling on Windows/WSL for hot reloading
+      - NODE_ENV=development
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
 
 volumes:
-  pgdata:
+  postgres_data:
