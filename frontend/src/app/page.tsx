@@ -56,7 +56,7 @@ export default function Home() {
     setIsGenerating(true);
     setScheduleData(null);
     try {
-      const response = await fetchWithAuth(`${API_BASE}/generate-schedule/?year=${year}&month=${month}`);
+      const response = await fetchWithAuth(`${API_BASE}/generate-schedule?year=${year}&month=${month}`);
 
       if (!response.ok) {
         const errorData = await response.json();

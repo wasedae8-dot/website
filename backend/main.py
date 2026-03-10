@@ -13,7 +13,7 @@ from datetime import datetime
 # Tables will be created in startup_event to avoid crashing on import if DB is down
 
 
-app = FastAPI(title="Shift Scheduling API")
+app = FastAPI(title="Shift Scheduling API", redirect_slashes=False)
 
 @app.on_event("startup")
 async def startup_event():
@@ -114,11 +114,11 @@ def verify_auth(request: Request):
 
 
 # --- Facilities ---
-@app.get("/facilities/", response_model=List[schemas.Facility])
+@app.get("/facilities", response_model=List[schemas.Facility])
 def read_facilities(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     return db.query(models.Facility).offset(skip).limit(limit).all()
 
-@app.post("/facilities/", response_model=schemas.Facility)
+@app.post("/facilities", response_model=schemas.Facility)
 def create_facility(facility: schemas.FacilityCreate, db: Session = Depends(get_db)):
     db_facility = models.Facility(name=facility.name)
     db.add(db_facility)
@@ -127,11 +127,11 @@ def create_facility(facility: schemas.FacilityCreate, db: Session = Depends(get_
     return db_facility
 
 # --- Staff ---
-@app.get("/staff/", response_model=List[schemas.Staff])
+@app.get("/staff", response_model=List[schemas.Staff])
 def read_staff(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     return db.query(models.Staff).order_by(models.Staff.sort_order, models.Staff.id).offset(skip).limit(limit).all()
 
-@app.post("/staff/", response_model=schemas.Staff)
+@app.post("/staff", response_model=schemas.Staff)
 def create_staff(staff: schemas.StaffCreate, db: Session = Depends(get_db)):
     # Assign next sort_order
     max_order = db.query(models.Staff).count()
@@ -169,11 +169,11 @@ def update_staff(staff_id: int, staff: schemas.StaffCreate, db: Session = Depend
     return db_staff
 
 # --- Leave Requests ---
-@app.get("/requests/", response_model=List[schemas.LeaveRequest])
+@app.get("/requests", response_model=List[schemas.LeaveRequest])
 def read_requests(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     return db.query(models.LeaveRequest).offset(skip).limit(limit).all()
 
-@app.post("/requests/", response_model=schemas.LeaveRequest)
+@app.post("/requests", response_model=schemas.LeaveRequest)
 def create_request(request: schemas.LeaveRequestCreate, db: Session = Depends(get_db)):
     db_request = models.LeaveRequest(**request.dict())
     db.add(db_request)
@@ -191,7 +191,7 @@ def delete_request(request_id: int, db: Session = Depends(get_db)):
     return {"ok": True}
 
 # --- Solver Engine ---
-@app.get("/generate-schedule/")
+@app.get("/generate-schedule")
 def generate_schedule(year: int, month: int, db: Session = Depends(get_db)):
     """
     Triggers the OR-Tools optimization engine to generate the schedule 

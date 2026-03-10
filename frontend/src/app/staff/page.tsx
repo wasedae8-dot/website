@@ -196,7 +196,7 @@ export default function StaffManagement() {
   const fetchStaff = async () => {
     setIsLoading(true);
     try {
-      const response = await fetchWithAuth(`${API_BASE}/staff/`);
+      const response = await fetchWithAuth(`${API_BASE}/staff`);
       if (response.ok) {
         const data = await response.json();
         setStaffList(data);
@@ -226,7 +226,7 @@ export default function StaffManagement() {
       }),
     };
     try {
-      const response = await fetchWithAuth(`${API_BASE}/staff/`, {
+      const response = await fetchWithAuth(`${API_BASE}/staff`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload),

@@ -47,8 +47,8 @@ export default function RequestsManagement() {
     setIsLoading(true);
     try {
       const [staffRes, reqRes] = await Promise.all([
-        fetchWithAuth(`${API_BASE}/staff/`),
-        fetchWithAuth(`${API_BASE}/requests/`)
+        fetchWithAuth(`${API_BASE}/staff`),
+        fetchWithAuth(`${API_BASE}/requests`)
       ]);
 
       if (staffRes.ok && reqRes.ok) {
@@ -123,7 +123,7 @@ export default function RequestsManagement() {
       });
 
       const promises = allRequests.map(req =>
-        fetchWithAuth(`${API_BASE}/requests/`, {
+        fetchWithAuth(`${API_BASE}/requests`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(req),
